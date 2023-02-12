@@ -6,6 +6,9 @@ html,body{
     font-family: arial;
    
 }
+p{
+    color: red;
+}
 
 #section1{
    
@@ -21,17 +24,20 @@ html,body{
     height: 100%;
 }
 .w-60{
-    width: 55.5%;
+    width: 100%
 }
 .w-40{
     width: 44.5%;
 }
 .w-75{
-    width: 80%;
+    width:100%;
+    margin: auto;
+   
     margin-top: 0px;
     padding-top: 15px;
-    padding-left: 40px;
+    padding-left: 100px;
     border-bottom: 33px;
+
 }
 .navbar{
     display: flex;
